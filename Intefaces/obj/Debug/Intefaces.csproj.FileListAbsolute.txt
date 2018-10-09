@@ -1,0 +1,6 @@
+C:\Users\lvk.rickson\source\repos\Listener\Intefaces\bin\Debug\Intefaces.dll
+C:\Users\lvk.rickson\source\repos\Listener\Intefaces\bin\Debug\Intefaces.pdb
+C:\Users\lvk.rickson\source\repos\Listener\Intefaces\obj\Debug\Intefaces.csproj.CoreCompileInputs.cache
+C:\Users\lvk.rickson\source\repos\Listener\Intefaces\obj\Debug\Intefaces.dll
+C:\Users\lvk.rickson\source\repos\Listener\Intefaces\obj\Debug\Intefaces.pdb
+C:\Users\lvk.rickson\source\repos\Listener\Intefaces\obj\Debug\Intefaces.csprojAssemblyReference.cache

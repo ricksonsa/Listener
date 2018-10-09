@@ -1,0 +1,9 @@
+C:\Users\lvk.rickson\source\repos\Listener\Recorder\bin\Debug\Recorder.dll
+C:\Users\lvk.rickson\source\repos\Listener\Recorder\bin\Debug\Recorder.pdb
+C:\Users\lvk.rickson\source\repos\Listener\Recorder\bin\Debug\NAudio.dll
+C:\Users\lvk.rickson\source\repos\Listener\Recorder\bin\Debug\NAudio.xml
+C:\Users\lvk.rickson\source\repos\Listener\Recorder\obj\Debug\Recorder.csprojAssemblyReference.cache
+C:\Users\lvk.rickson\source\repos\Listener\Recorder\obj\Debug\Recorder.csproj.CoreCompileInputs.cache
+C:\Users\lvk.rickson\source\repos\Listener\Recorder\obj\Debug\Recorder.csproj.CopyComplete
+C:\Users\lvk.rickson\source\repos\Listener\Recorder\obj\Debug\Recorder.dll
+C:\Users\lvk.rickson\source\repos\Listener\Recorder\obj\Debug\Recorder.pdb
